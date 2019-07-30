@@ -1,3 +1,10 @@
+setup.py
+
+heroku create myapp --buildpack heroku/python
+
+$ python -V
+Python 3.7.2
+
 import os
 import time
 import sys
